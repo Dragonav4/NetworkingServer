@@ -1,0 +1,11 @@
+{
+  "Host": "localhost",
+  "Port": 1244,
+  "BannedWords": [
+    "suck", "$uck", "duck", "damn", "heck",
+    "crap", "freak", "f*ck", "sh*t", "b*tch",
+    "jerk", "idiot", "stupid", "dumb", "moron",
+    "loser", "scum", "trash", "fool", "nonsense",
+    "piss", "prick", "butt", "arse", "ass",
+    "whore", "slut", "bastard", "nerd", "geek"]
+}
